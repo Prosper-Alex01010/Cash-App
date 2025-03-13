@@ -264,6 +264,7 @@ nav {
     align-items: center;
   }
 }
+
 @media only screen and (max-width: 500px) {
   /* HERO STYLES */
 
@@ -304,7 +305,6 @@ nav {
   .nav-wrapper .logo {
     height: 4rem;
     width: 4rem;
-    background-color: orangered;
   }
 
   /* HERO STYLES */
